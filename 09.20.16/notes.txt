@@ -1,0 +1,2 @@
+Know types of errors e.g. debugging, syntax
+Error types?
